@@ -15,9 +15,9 @@ Documentation related to SHARK projects which doesn't fit anywhere else or needs
     * CPU
     * GPU
     * SPIR-V / Vulkan
-    * data-tiling, ukernels
-    * High dimensional layout distribution
-    * Transform dialect
+  * data-tiling, ukernels
+  * High dimensional layout distribution
+  * Transform dialect
 * Runtime
   * Stream Dialect
   * VM
