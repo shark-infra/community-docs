@@ -22,3 +22,7 @@ Documentation related to SHARK projects which doesn't fit anywhere else or needs
   * Stream Dialect
   * VM
   * HAL backend
+* Project Infra
+  * Compiler and runtime plugins
+  * Compiler API and interfaces
+  * LLVM Integrates and dependency management
